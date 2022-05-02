@@ -1,3 +1,8 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
 .block {
     display: flex;
     justify-content: center;
