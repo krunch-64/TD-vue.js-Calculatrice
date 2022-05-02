@@ -41,3 +41,11 @@ body {
     .div19 { grid-area: 6 / 1 / 7 / 3; }
     .div20 { grid-area: 6 / 3 / 7 / 4; }
     .div21 { grid-area: 6 / 4 / 7 / 5; }
+
+    .orange {
+        background-color: orange;
+    }
+
+    .grey {
+        background-color: grey;
+    }
